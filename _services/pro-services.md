@@ -6,7 +6,7 @@ weight: 3
 
 Best PRO Services in Dubai
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/pro-services.png)
 
 # Best PRO Services in Dubai Overview
 
