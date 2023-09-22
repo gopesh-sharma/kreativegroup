@@ -2,7 +2,7 @@
 title: Kreative Group
 layout: home
 description: Kreative Group.
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/dubai_building.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
