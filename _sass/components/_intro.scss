@@ -3,10 +3,10 @@
   justify-content: flex-start;
   align-items: center;
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
   overflow: hidden;
   @include media-breakpoint-up(md) {
-    padding-bottom: 140px;
+    padding-bottom: 10px;
   }
   h1 {
     color: $black;
